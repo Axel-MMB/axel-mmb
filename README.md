@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 
 ##👋¡Hola! Mi nombre es Axel y soy un estudiante apasionado de .NET. Me encanta aprender nuevas habilidades y mejorar mis conocimientos en programación🌱. Actualmente, estoy enfocado en mejorar mis habilidades en .NET y construir proyectos interesantes que me permitan aplicar lo que he aprendido.
 
 En mi tiempo libre, me gusta participar en comunidades en línea para conectar con otros desarrolladores y compartir conocimientos 🤝. También me encanta leer artículos y blogs sobre tecnología para mantenerme actualizado sobre las últimas tendencias y novedades en el mundo de la programación. Como hobbies practico futbol y tengo aficion por la música.
