@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 En mi tiempo libre, me gusta participar en comunidades en línea para conectar con otros desarrolladores y compartir conocimientos 🤝. También me encanta leer artículos y blogs sobre tecnología para mantenerme actualizado sobre las últimas tendencias y novedades en el mundo de la programación. Como hobbies practico futbol y tengo aficion por la música.
 
-Si estás interesado en colaborar en algún proyecto en .NET, ¡me encantaría trabajar contigo! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. Puedes encontrarme en linkedin.com/in/axel-munoa/.
+Si estás interesado en colaborar en algún proyecto en .NET, ¡me encantaría trabajar contigo! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. Puedes encontrarme en linkedin.com/in/axel-munoa/ o en mi mail axelmunoa@gmail.com.
 
 ¡Gracias por visitar mi perfil de GitHub! 😄
 
